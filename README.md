@@ -5,7 +5,7 @@
 - 🎨 At [blogs.sirodoht.com](https://blogs.sirodoht.com/) one can find my curated list of blogs.
 - ☀️ In case you're wondering how sunny is your city, you may find the answer on the [Sunshine Index](https://sun.sirodoht.com/).
 - 📻 There is also a [Vulfpeck Index](https://vulfpeck.sirodoht.com/) for easy access on demand on all Vulf Records songs.
-- 9️ For comedy, I present the [Nine Nine Index](https://99.sirodoht.com/). It solves my need to easily send 99 stills when describing feelings via chatting.
+- 💯 For comedy, I present the [Nine Nine Index](https://99.sirodoht.com/). It solves my need to easily send 99 stills when describing feelings via chatting.
 - 🔫 Complete list of all fun projects at [sirodoht.com/projects](https://sirodoht.com/projects/).
 
 <!--
