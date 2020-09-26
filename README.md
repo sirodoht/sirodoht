@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- Checkout [mataroa.blog](https://mataroa.blog/), a most minimal blogging engine.
+- Another recent, super fun, project was [herb](https://github.com/sirodoht/herb): an attempt for a BitTorrent CLI client in Rust.
+– At [blogs.sirodoht.com](https://blogs.sirodoht.com/) one can find my curated list of blogs.
+- In case you're wondering how sunny is your city, you may find the answer on the [Sunshine Index](https://sun.sirodoht.com/).
+- There is also a [Vulfpeck Index](https://vulfpeck.sirodoht.com/) for easy access on demand on all Vulf Records songs.
+- For comedy, I present the [Nine Nine Index](https://99.sirodoht.com/). It solves my need to easily send 99 stills when describing feelings via chatting.
+- Complete list of all fun projects at [sirodoht.com/projects](https://sirodoht.com/projects/).
+
 <!--
 **sirodoht/sirodoht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
