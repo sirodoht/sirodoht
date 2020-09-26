@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Checkout [mataroa.blog](https://mataroa.blog/), a most minimal blogging engine.
-- Another recent, super fun, project was [herb](https://github.com/sirodoht/herb): an attempt for a BitTorrent CLI client in Rust.
+- Also [herb](https://github.com/sirodoht/herb), a super fun stab at a BitTorrent CLI client in Rust.
 - At [blogs.sirodoht.com](https://blogs.sirodoht.com/) one can find my curated list of blogs.
 - In case you're wondering how sunny is your city, you may find the answer on the [Sunshine Index](https://sun.sirodoht.com/).
 - There is also a [Vulfpeck Index](https://vulfpeck.sirodoht.com/) for easy access on demand on all Vulf Records songs.
