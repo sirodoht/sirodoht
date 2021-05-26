@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ✏️ Checkout [mataroa.blog](https://mataroa.blog/), the naked blogging engine.
+- ✏️ Check out [mataroa.blog](https://mataroa.blog/), the naked blogging engine.
 - 🎨 If you like blogs, there is a nice curated [collection](https://collection.mataroa.blog/).
 - 🐘 Looking for the best Mastodon instances? Check out [mastodons.sirodoht.com](https://mastodons.sirodoht.com/) to find your ideal.
 - ☀️ In case you're wondering how sunny your city is, you may find the answer on the [Sunshine Index](https://sun.sirodoht.com/).
