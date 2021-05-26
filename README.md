@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- ✏️ Checkout [mataroa.blog](https://mataroa.blog/), a most minimal blogging engine.
-- 🌱 Also [herb](https://github.com/sirodoht/herb), a super fun stab at a BitTorrent CLI client in Rust.
-- 🎨 At [blogs.sirodoht.com](https://blogs.sirodoht.com/) one can find my curated list of blogs.
+- ✏️ Checkout [mataroa.blog](https://mataroa.blog/), the naked blogging engine.
+- 🎨 If you like blogs, there is a nice curated [collection](https://collection.mataroa.blog/).
 - 🐘 Looking for the best Mastodon instances? Check out [mastodons.sirodoht.com](https://mastodons.sirodoht.com/) to find your ideal.
 - ☀️ In case you're wondering how sunny your city is, you may find the answer on the [Sunshine Index](https://sun.sirodoht.com/).
 - 📻 There is also a [Vulfpeck Index](https://vulfpeck.sirodoht.com/) for easy access on demand on all [Vulf Records](https://vulfpeck.com/) songs.
-- 💯 For comedy, I present the [Nine Nine Index](https://99.sirodoht.com/). It solves my need to easily send 99 stills when chatting.
-- 🔫 Complete list of all fun projects at [sirodoht.com/projects](https://sirodoht.com/projects/).
+- 💯 For comedy, I present the [Nine Nine Index](https://99.sirodoht.com/). I haven’t seen the last season, though, so that’s missing. [PR](https://github.com/sirodoht/ninenine)?
+- 🍉 Also, if you’re interested in a blog about software engineering, society, and polities I have one: [nutcroft.com](https://nutcroft.com/).
+- 🐦 Feel free to reach out on the [bird platform](https://twitter.com/sirodoht).
 
 <!--
 **sirodoht/sirodoht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
